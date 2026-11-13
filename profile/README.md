@@ -36,9 +36,7 @@ Use the answers to decide where to focus your marketing.
 
 Coverage includes **ChatGPT, Gemini, Google AI Overviews, Google AI Mode, Perplexity, and Microsoft Copilot**, depending on your plan.
 
-## Build with Frontmost AI
-
-This organization is the home for Frontmost AI’s public CLIs and SDKs.
+## Developer resources
 
 Want your visibility results inside your AI assistant?
 [Connect Frontmost AI to ChatGPT or Claude](https://frontmost.ai/connect).
