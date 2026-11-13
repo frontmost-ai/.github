@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://frontmost.ai">
-    <img src="https://raw.githubusercontent.com/frontmost-ai/.github/main/assets/frontmost-ai.png" alt="Frontmost AI" width="88" height="88">
+    <img src="https://github.com/frontmost-ai/.github/blob/main/assets/frontmost-ai.png?raw=true" alt="Frontmost AI" width="88" height="88">
   </a>
 </p>
 
@@ -22,7 +22,7 @@
 <br>
 
 <a href="https://frontmost.ai">
-  <img src="https://raw.githubusercontent.com/frontmost-ai/.github/main/assets/overview.webp" alt="Frontmost AI product preview: visibility over time, competitor comparisons, and results by AI app." width="1200">
+  <img src="https://github.com/frontmost-ai/.github/blob/main/assets/overview.webp?raw=true" alt="Frontmost AI product preview: visibility over time, competitor comparisons, and results by AI app." width="1200">
 </a>
 
 ## AI visibility tracking for your brand
