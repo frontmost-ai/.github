@@ -4,45 +4,57 @@
   </a>
 </p>
 
-<h1 align="center">Track your brand’s AI visibility.</h1>
+<p align="center">AI Search Intelligence for AI-Native Teams</p>
+
+<h1 align="center">Give your agents the data to win you customers in AI search.</h1>
 
 <p align="center">
-  See when AI recommends your business, who it names instead,<br>
-  and which sources shape the answer.
+  You run the business. Your agents can take on the AI search work.<br>
+  Built for solo founders, one-person marketing teams, and agent-run businesses.
 </p>
 
 <p align="center">
-  <a href="https://frontmost.ai"><strong>Explore Frontmost AI</strong></a>
+  <a href="https://frontmost.ai/headless-ai-visibility"><strong>Set up Frontmost AI with your agent</strong></a>
   &nbsp; · &nbsp;
-  <a href="https://frontmost.ai/method">How we measure</a>
+  <a href="https://github.com/frontmost-ai/aeo-skills">Install the AI search skills</a>
   &nbsp; · &nbsp;
-  <a href="https://frontmost.ai/connect">Connect ChatGPT or Claude</a>
+  <a href="https://frontmost.ai/connect">Connect your AI</a>
 </p>
 
-<br>
+## Your agent owns your AI search strategy
 
-<a href="https://frontmost.ai">
-  <img src="https://github.com/frontmost-ai/.github/blob/main/assets/overview.webp?raw=true" alt="Frontmost AI product preview: visibility over time, competitor comparisons, and results by AI app." width="1200">
+Frontmost AI helps founders get their businesses recommended in ChatGPT and other AI apps.
+Your agent works from saved answers: where AI mentions you, who it recommends instead, and which pages it cites.
+
+Give that data to the agent you already use. It can find gaps, draft pages and outreach, and compare later results.
+You decide what goes live.
+
+Frontmost AI is a headless AI visibility platform. Your agent can use it through a connector, API, or command line.
+The web app is there when you want to look.
+
+<a href="https://frontmost.ai/headless-ai-visibility">
+  <img src="https://github.com/frontmost-ai/.github/blob/main/assets/overview.webp?raw=true" alt="Frontmost AI results: AI mentions over time, rival comparisons, and answers by AI app." width="1200">
 </a>
 
-## AI visibility tracking for your brand
+## Start with your agent
 
-Frontmost AI helps founders, marketing teams, and agencies see how AI describes and recommends their brands.
-Use the answers to decide where to focus your marketing.
+Paste this into Claude Code, Codex, or Cursor:
 
-- **Track your visibility.** See how often AI names your business and how that changes over time.
-- **Know your competitors.** See which businesses AI recommends alongside yours or instead of it.
-- **Find the sources.** Review the pages that AI cites to decide which sites and content need your attention.
+```text
+Follow https://frontmost.ai/auth.md and set up Frontmost AI for my business. Then tell me where ChatGPT leaves us out.
+```
 
-Coverage includes **ChatGPT, Gemini, Google AI Overviews, Google AI Mode, Perplexity, and Microsoft Copilot**, depending on your plan.
+You sign in, choose a plan, and enter a card. Your agent handles setup and starts the first scan.
 
-## Developer resources
+## Open-source tools
 
-Want your visibility results inside your AI assistant?
-[Connect Frontmost AI to ChatGPT or Claude](https://frontmost.ai/connect).
+| Project | What it gives your agent |
+| --- | --- |
+| [AEO skills](https://github.com/frontmost-ai/aeo-skills) | 19 skills for AI search marketing. 13 work without a Frontmost AI account. |
+| [Frontmost AI CLI](https://github.com/frontmost-ai/cli) | Your Frontmost AI questions, answers, and results from the terminal. |
 
-For CLI, SDK, and integration questions, [talk to the team](https://frontmost.ai/contact).
+Coverage includes ChatGPT, Gemini, Google AI Overviews, Google AI Mode, Perplexity, and Microsoft Copilot, depending on your plan.
 
 ---
 
-[Website](https://frontmost.ai) · [Blog](https://frontmost.ai/blog) · [Contact](https://frontmost.ai/contact)
+[Website](https://frontmost.ai) · [How we measure](https://frontmost.ai/method) · [Contact](https://frontmost.ai/contact)
